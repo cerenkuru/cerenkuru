@@ -5,7 +5,7 @@
 
 - 👩🏼‍💻 I'm currently working on Front End
 
-- 👾 I'm currently learning React.js and Vue.js
+- 👾 I'm currently learning React.js like crazy
 
 - 📂 All of my projects are available at https://github.com/cerenkuru
   
